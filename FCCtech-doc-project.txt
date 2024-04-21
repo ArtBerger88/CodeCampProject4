@@ -1,0 +1,156 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="veiwport" content="width=device-width, initial-scale= 1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Tech Doc Page Project</title>
+  </head>
+  <body>
+    <main id="main-doc">
+      <h1 id="main-doc">Colorful Technical Documentation Page</h1>
+      <h2>HTML, CSS, JS Fake Docs</h2>
+      <section id="1" class="main-section">
+        <header id="1">1</header>
+        <p> Frontend Development Languages !!!</p>
+        <p id="one">HTML</p>
+        <p id="one">CSS</p>
+        <p id="one">JavaScript</p>
+        <code>code: < !DOCTYPEhtml >, < href="file.css" >, < script src="file.js"></script ></code>
+      </section>
+      <section id="2" class="main-section">
+        <header id="2">2</header>
+        <p> What They Do !!!</p>
+        <p id="two"><strong>HTML:</strong> Creates the webpage.</p>
+        <p id="two"><strong>CSS:</strong> Styles the webpage.</p>
+        <p id="two"><strong>JavaScript:</strong> Webpage functionality.</p>
+        <code>code:N/A</code>
+      </section>
+      <section id="3" class="main-section">
+        <header id="3">3</header>
+        <p> Nav/ Link description !!!</p>
+        <p id="one">Nav : Navigation, where to go next.</p>
+        <p id="one">Link : Links a page reference.</p>
+        <code>code:nav-link a href=""</code>
+      </section>
+      <section id="4" class="main-section">
+        <header id="4">4</header>
+        <p> Class/ Id breakdown !!!</p>
+        <p id="two"><strong>Class:</strong>  An umbrella term for objects.</p>
+        <p id="two"><strong>Id:</strong>  A specific name for an object.</p>
+        <code></code>
+      </section>
+      <section id="5" class="main-section">
+        <header id="5">5</header>
+        <p> HTML code parts</p>
+        <p id="one">Main parts of HTML code</p>
+        <ul id="list">
+          <li>html</li>
+          <li>head</li>
+          <li>body</li>
+          <li><strong>BIG</strong>foot</li>
+          <li>FreeCodeCamp.ORG</li>
+        </ul>
+        <code>code: Same as written exactly..........</code>
+      </section>
+      <nav id="navbar">
+        <header id="navbar">Which Section of the Colorful Fake Docs would you like to visit?</header>
+        <ul>
+        <nav-link>
+          <li><a class="nav-link" href="#1">1</a></li>
+          </nav-link>
+        <nav-link>
+          <li><a class="nav-link" href="#2">2</a></li>
+          </nav-link>
+        <nav-link>
+          <li><a class="nav-link" href="#3">3</a></li>
+          </nav-link>
+        <nav-link>
+          <li><a class="nav-link" href="#4">4</a></li>
+          </nav-link>
+        <nav-link>
+          <li><a class="nav-link" href="#5">5</a></li>
+          </nav-link>
+      </nav>
+    </main>
+  </body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+@media (max-width: 10px) {
+  width: 100px;
+} 
+
+main {
+  background-color: #000000;
+  font-family: sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+h1, h2 {
+  font-size:30px;
+  background-color: #348711;
+  text-align: center;
+  color: #f32253
+}
+
+#navbar {
+  padding-top: 10px;
+  background-color: #FFA500;
+  color: 
+}
+
+p {
+  color: FFFFff;
+}
+
+header{
+  color: pink;
+  padding-top: 15px;
+}
+
+code {
+  color: #FF0000;
+  background-color: white
+}
+
+#list {
+  color: forestgreen;
+  background-color: #4b0082
+}
+
+#nav-link {
+  text-align: left
+}
+
+li {
+  text-align: center;
+  list-style-position: inside; 
+}
+
+strong {
+  color: #008800
+}
+
+#one {
+  background-color: #CC66FF;
+  margin: 1;
+  padding: 1px;
+}
+
+#two {
+  background-color: #FF55DD;
+  margin: 1;
+  padding: 1px;
+}
+
+
+** end of undefined **
+
